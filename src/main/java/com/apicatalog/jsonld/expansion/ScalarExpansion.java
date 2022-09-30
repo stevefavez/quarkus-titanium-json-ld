@@ -20,7 +20,7 @@ import com.apicatalog.jsonld.context.ActiveContext;
 import com.apicatalog.jsonld.context.TermDefinition;
 import com.apicatalog.jsonld.lang.Keywords;
 
-import jakarta.json.JsonValue;
+import javax.json.JsonValue;
 
 /**
  * Steps 4.1 - 4.3

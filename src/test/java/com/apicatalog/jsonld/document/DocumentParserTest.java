@@ -30,7 +30,7 @@ import org.junit.jupiter.api.Test;
 import com.apicatalog.jsonld.JsonLdError;
 import com.apicatalog.jsonld.http.media.MediaType;
 
-import jakarta.json.Json;
+import javax.json.Json;
 
 class DocumentParserTest {
 

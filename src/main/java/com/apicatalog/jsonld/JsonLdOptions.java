@@ -24,9 +24,9 @@ import com.apicatalog.jsonld.document.JsonDocument;
 import com.apicatalog.jsonld.loader.DocumentLoader;
 import com.apicatalog.jsonld.loader.SchemeRouter;
 
-import jakarta.json.Json;
-import jakarta.json.JsonObject;
-import jakarta.json.JsonValue;
+import javax.json.Json;
+import javax.json.JsonObject;
+import javax.json.JsonValue;
 
 /**
  * The {@link JsonLdOptions} type is used to pass various options to the processor.

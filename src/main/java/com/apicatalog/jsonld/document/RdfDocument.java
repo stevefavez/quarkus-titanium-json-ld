@@ -30,7 +30,7 @@ import com.apicatalog.rdf.RdfDataset;
 import com.apicatalog.rdf.io.error.RdfReaderException;
 import com.apicatalog.rdf.io.error.UnsupportedContentException;
 
-import jakarta.json.JsonException;
+import javax.json.JsonException;
 
 public final class RdfDocument implements Document {
 

@@ -38,7 +38,7 @@ import com.apicatalog.jsonld.loader.ClasspathLoader;
 import com.apicatalog.rdf.RdfComparison;
 import com.apicatalog.rdf.RdfDataset;
 
-import jakarta.json.JsonArray;
+import javax.json.JsonArray;
 
 class RemoteContextTest {
 

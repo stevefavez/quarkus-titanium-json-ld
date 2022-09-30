@@ -25,11 +25,11 @@ import com.apicatalog.jsonld.JsonLdErrorCode;
 import com.apicatalog.jsonld.http.media.MediaType;
 import com.apicatalog.jsonld.json.JsonUtils;
 
-import jakarta.json.Json;
-import jakarta.json.JsonException;
-import jakarta.json.JsonStructure;
-import jakarta.json.JsonValue;
-import jakarta.json.stream.JsonParser;
+import javax.json.Json;
+import javax.json.JsonException;
+import javax.json.JsonStructure;
+import javax.json.JsonValue;
+import javax.json.stream.JsonParser;
 
 public final class JsonDocument implements Document {
 

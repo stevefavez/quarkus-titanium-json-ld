@@ -23,7 +23,7 @@ import com.apicatalog.jsonld.context.TermDefinition;
 import com.apicatalog.jsonld.json.JsonUtils;
 import com.apicatalog.jsonld.lang.Keywords;
 
-import jakarta.json.JsonValue;
+import javax.json.JsonValue;
 
 /**
  *

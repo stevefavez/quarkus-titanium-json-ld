@@ -33,8 +33,8 @@ import org.junit.jupiter.params.provider.ValueSource;
 import com.apicatalog.jsonld.JsonLdError;
 import com.apicatalog.jsonld.http.media.MediaType;
 
-import jakarta.json.JsonStructure;
-import jakarta.json.JsonValue;
+import javax.json.JsonStructure;
+import javax.json.JsonValue;
 
 class JsonDocumentTest {
 

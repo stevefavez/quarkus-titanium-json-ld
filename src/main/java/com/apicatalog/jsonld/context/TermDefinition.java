@@ -23,7 +23,7 @@ import java.util.Set;
 
 import com.apicatalog.jsonld.lang.DirectionType;
 
-import jakarta.json.JsonValue;
+import javax.json.JsonValue;
 
 public final class TermDefinition {
 

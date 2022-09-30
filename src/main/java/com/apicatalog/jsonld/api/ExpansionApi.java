@@ -26,8 +26,8 @@ import com.apicatalog.jsonld.loader.DocumentLoader;
 import com.apicatalog.jsonld.processor.ExpansionProcessor;
 import com.apicatalog.jsonld.uri.UriUtils;
 
-import jakarta.json.JsonArray;
-import jakarta.json.JsonStructure;
+import javax.json.JsonArray;
+import javax.json.JsonStructure;
 
 public final class ExpansionApi implements CommonApi<ExpansionApi>, LoaderApi<ExpansionApi>, ContextApi<ExpansionApi> {
 

@@ -26,7 +26,7 @@ import com.apicatalog.jsonld.document.Document;
 import com.apicatalog.jsonld.document.JsonDocument;
 import com.apicatalog.jsonld.document.RdfDocument;
 
-import jakarta.json.JsonValue;
+import javax.json.JsonValue;
 
 class FromRdfApiNegativeTest {
 

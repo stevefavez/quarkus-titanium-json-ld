@@ -37,7 +37,7 @@ import com.apicatalog.jsonld.test.JsonLdTestCase;
 import com.apicatalog.jsonld.test.JsonLdTestRunnerEarl;
 import com.github.tomakehurst.wiremock.WireMockServer;
 
-import jakarta.json.JsonArray;
+import javax.json.JsonArray;
 
 public class EarlGenerator {
 

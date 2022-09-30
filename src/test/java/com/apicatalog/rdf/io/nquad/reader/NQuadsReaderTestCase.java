@@ -17,7 +17,7 @@ package com.apicatalog.rdf.io.nquad.reader;
 
 import com.apicatalog.jsonld.lang.Keywords;
 
-import jakarta.json.JsonObject;
+import javax.json.JsonObject;
 
 public final class NQuadsReaderTestCase {
 

@@ -27,8 +27,8 @@ import com.apicatalog.jsonld.loader.DocumentLoader;
 import com.apicatalog.jsonld.processor.FramingProcessor;
 import com.apicatalog.jsonld.uri.UriUtils;
 
-import jakarta.json.JsonObject;
-import jakarta.json.JsonStructure;
+import javax.json.JsonObject;
+import javax.json.JsonStructure;
 
 public final class FramingApi implements CommonApi<FramingApi>, LoaderApi<FramingApi>, ContextApi<FramingApi> {
 

@@ -26,7 +26,7 @@ import java.util.Set;
 import com.apicatalog.jsonld.lang.Keywords;
 import com.apicatalog.jsonld.serialization.RdfToJsonld.Reference;
 
-import jakarta.json.JsonValue;
+import javax.json.JsonValue;
 
 final class GraphMap {
 

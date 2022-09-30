@@ -19,7 +19,7 @@ import java.util.Optional;
 
 import com.apicatalog.jsonld.json.JsonUtils;
 
-import jakarta.json.JsonValue;
+import javax.json.JsonValue;
 
 public final class ValueObject {
 

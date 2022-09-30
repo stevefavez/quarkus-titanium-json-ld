@@ -19,9 +19,9 @@ import java.net.URI;
 
 import com.apicatalog.jsonld.document.Document;
 
-import jakarta.json.JsonObject;
-import jakarta.json.JsonString;
-import jakarta.json.JsonStructure;
+import javax.json.JsonObject;
+import javax.json.JsonString;
+import javax.json.JsonStructure;
 
 public interface ContextApi<R> {
 

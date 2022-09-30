@@ -30,7 +30,7 @@ import com.apicatalog.jsonld.document.JsonDocument;
 import com.apicatalog.jsonld.http.media.MediaType;
 import com.apicatalog.rdf.RdfDataset;
 
-import jakarta.json.JsonValue;
+import javax.json.JsonValue;
 
 class ToRdfApiTest {
 

@@ -27,7 +27,7 @@ import com.apicatalog.jsonld.JsonLdError;
 import com.apicatalog.jsonld.document.RdfDocument;
 import com.apicatalog.rdf.Rdf;
 
-import jakarta.json.JsonArray;
+import javax.json.JsonArray;
 
 class FromRdfApiTest {
 

@@ -36,8 +36,8 @@ import com.apicatalog.rdf.RdfTriple;
 import com.apicatalog.rdf.RdfValue;
 import com.apicatalog.rdf.lang.RdfConstants;
 
-import jakarta.json.JsonString;
-import jakarta.json.JsonValue;
+import javax.json.JsonString;
+import javax.json.JsonValue;
 
 public final class JsonLdToRdf {
 

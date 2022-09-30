@@ -23,8 +23,8 @@ import com.apicatalog.jsonld.json.JsonUtils;
 import com.apicatalog.jsonld.lang.DirectionType;
 import com.apicatalog.jsonld.lang.Keywords;
 
-import jakarta.json.JsonString;
-import jakarta.json.JsonValue;
+import javax.json.JsonString;
+import javax.json.JsonValue;
 
 /**
  *

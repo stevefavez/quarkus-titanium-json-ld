@@ -21,7 +21,7 @@ import java.util.Optional;
 import com.apicatalog.jsonld.http.media.MediaType;
 import com.apicatalog.rdf.RdfDataset;
 
-import jakarta.json.JsonStructure;
+import javax.json.JsonStructure;
 
 /**
  * A document that can be processed by the processor.

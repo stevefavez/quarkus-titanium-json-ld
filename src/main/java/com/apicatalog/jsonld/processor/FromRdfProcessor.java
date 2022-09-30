@@ -24,7 +24,7 @@ import com.apicatalog.jsonld.document.Document;
 import com.apicatalog.jsonld.loader.DocumentLoaderOptions;
 import com.apicatalog.jsonld.serialization.RdfToJsonld;
 
-import jakarta.json.JsonArray;
+import javax.json.JsonArray;
 
 public final class FromRdfProcessor {
 

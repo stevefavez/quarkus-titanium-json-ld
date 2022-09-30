@@ -24,7 +24,7 @@ import com.apicatalog.jsonld.document.Document;
 import com.apicatalog.jsonld.loader.DocumentLoader;
 import com.apicatalog.jsonld.processor.CompactionProcessor;
 
-import jakarta.json.JsonObject;
+import javax.json.JsonObject;
 
 public final class CompactionApi implements CommonApi<CompactionApi>, LoaderApi<CompactionApi> {
 

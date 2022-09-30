@@ -29,8 +29,8 @@ import com.apicatalog.jsonld.JsonLdVersion;
 import com.apicatalog.jsonld.document.JsonDocument;
 import com.apicatalog.jsonld.http.media.MediaType;
 
-import jakarta.json.JsonObject;
-import jakarta.json.JsonValue;
+import javax.json.JsonObject;
+import javax.json.JsonValue;
 
 class CompactionApiTest {
 

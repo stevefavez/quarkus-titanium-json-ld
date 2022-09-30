@@ -30,8 +30,8 @@ import com.apicatalog.jsonld.JsonLdVersion;
 import com.apicatalog.jsonld.document.JsonDocument;
 import com.apicatalog.jsonld.http.media.MediaType;
 
-import jakarta.json.JsonArray;
-import jakarta.json.JsonValue;
+import javax.json.JsonArray;
+import javax.json.JsonValue;
 
 class ExpansionApiTest {
 

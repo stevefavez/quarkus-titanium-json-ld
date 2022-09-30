@@ -26,8 +26,8 @@ import com.apicatalog.jsonld.flattening.Flattening;
 import com.apicatalog.jsonld.http.media.MediaType;
 import com.apicatalog.jsonld.loader.DocumentLoaderOptions;
 
-import jakarta.json.JsonArray;
-import jakarta.json.JsonStructure;
+import javax.json.JsonArray;
+import javax.json.JsonStructure;
 
 /**
  *

@@ -17,9 +17,9 @@ package com.apicatalog.jsonld.lang;
 
 import com.apicatalog.jsonld.json.JsonUtils;
 
-import jakarta.json.Json;
-import jakarta.json.JsonObject;
-import jakarta.json.JsonValue;
+import javax.json.Json;
+import javax.json.JsonObject;
+import javax.json.JsonValue;
 
 public final class ListObject {
 

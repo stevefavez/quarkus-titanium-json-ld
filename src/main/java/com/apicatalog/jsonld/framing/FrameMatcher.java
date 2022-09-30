@@ -27,9 +27,9 @@ import com.apicatalog.jsonld.lang.ListObject;
 import com.apicatalog.jsonld.lang.NodeObject;
 import com.apicatalog.jsonld.lang.ValueObject;
 
-import jakarta.json.JsonArray;
-import jakarta.json.JsonStructure;
-import jakarta.json.JsonValue;
+import javax.json.JsonArray;
+import javax.json.JsonStructure;
+import javax.json.JsonValue;
 
 public final class FrameMatcher {
 

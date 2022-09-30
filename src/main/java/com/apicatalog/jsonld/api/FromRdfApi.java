@@ -25,7 +25,7 @@ import com.apicatalog.jsonld.loader.DocumentLoader;
 import com.apicatalog.jsonld.processor.FromRdfProcessor;
 import com.apicatalog.rdf.RdfDataset;
 
-import jakarta.json.JsonArray;
+import javax.json.JsonArray;
 
 public final class FromRdfApi implements CommonApi<FromRdfApi>, LoaderApi<FromRdfApi> {
 

@@ -30,9 +30,9 @@ import com.apicatalog.jsonld.document.JsonDocument;
 import com.apicatalog.jsonld.http.media.MediaType;
 import com.apicatalog.jsonld.lang.Keywords;
 
-import jakarta.json.Json;
-import jakarta.json.JsonObject;
-import jakarta.json.JsonValue;
+import javax.json.Json;
+import javax.json.JsonObject;
+import javax.json.JsonValue;
 
 class FrameApiTest {
 

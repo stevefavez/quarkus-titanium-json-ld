@@ -28,8 +28,8 @@ import com.apicatalog.jsonld.json.JsonUtils;
 import com.apicatalog.jsonld.loader.DocumentLoader;
 import com.apicatalog.jsonld.loader.DocumentLoaderOptions;
 
-import jakarta.json.JsonObject;
-import jakarta.json.JsonValue;
+import javax.json.JsonObject;
+import javax.json.JsonValue;
 
 
 public final class JsonLdManifestLoader {

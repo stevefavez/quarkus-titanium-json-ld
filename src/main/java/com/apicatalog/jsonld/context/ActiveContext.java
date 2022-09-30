@@ -29,7 +29,7 @@ import com.apicatalog.jsonld.expansion.UriExpansion;
 import com.apicatalog.jsonld.expansion.ValueExpansion;
 import com.apicatalog.jsonld.lang.DirectionType;
 
-import jakarta.json.JsonObject;
+import javax.json.JsonObject;
 
 /**
  * A context that is used to resolve terms while the processing algorithm is

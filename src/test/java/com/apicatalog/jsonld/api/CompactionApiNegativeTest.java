@@ -25,7 +25,7 @@ import com.apicatalog.jsonld.JsonLd;
 import com.apicatalog.jsonld.document.Document;
 import com.apicatalog.jsonld.document.JsonDocument;
 
-import jakarta.json.JsonValue;
+import javax.json.JsonValue;
 
 class CompactionApiNegativeTest {
 

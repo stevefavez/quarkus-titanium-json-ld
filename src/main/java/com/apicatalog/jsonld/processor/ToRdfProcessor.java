@@ -28,7 +28,7 @@ import com.apicatalog.jsonld.loader.DocumentLoaderOptions;
 import com.apicatalog.rdf.Rdf;
 import com.apicatalog.rdf.RdfDataset;
 
-import jakarta.json.JsonArray;
+import javax.json.JsonArray;
 
 /**
  *

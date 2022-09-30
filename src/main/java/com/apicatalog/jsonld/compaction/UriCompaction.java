@@ -37,9 +37,9 @@ import com.apicatalog.jsonld.lang.NodeObject;
 import com.apicatalog.jsonld.lang.ValueObject;
 import com.apicatalog.jsonld.uri.UriRelativizer;
 
-import jakarta.json.JsonArray;
-import jakarta.json.JsonString;
-import jakarta.json.JsonValue;
+import javax.json.JsonArray;
+import javax.json.JsonString;
+import javax.json.JsonValue;
 
 /**
  *

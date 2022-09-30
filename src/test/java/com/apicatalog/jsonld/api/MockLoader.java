@@ -25,7 +25,7 @@ import com.apicatalog.jsonld.loader.DocumentLoader;
 import com.apicatalog.jsonld.loader.DocumentLoaderOptions;
 import com.apicatalog.rdf.RdfDataset;
 
-import jakarta.json.JsonStructure;
+import javax.json.JsonStructure;
 
 public class MockLoader implements DocumentLoader {
 

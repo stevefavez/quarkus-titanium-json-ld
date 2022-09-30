@@ -29,8 +29,8 @@ import com.apicatalog.rdf.RdfTriple;
 import com.apicatalog.rdf.RdfValue;
 import com.apicatalog.rdf.lang.RdfConstants;
 
-import jakarta.json.JsonArray;
-import jakarta.json.JsonValue;
+import javax.json.JsonArray;
+import javax.json.JsonValue;
 
 /**
  *

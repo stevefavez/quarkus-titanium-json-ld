@@ -22,7 +22,7 @@ import com.apicatalog.jsonld.JsonLdOptions.RdfDirection;
 import com.apicatalog.jsonld.JsonLdVersion;
 import com.apicatalog.jsonld.uri.UriResolver;
 
-import jakarta.json.JsonObject;
+import javax.json.JsonObject;
 
 public class JsonLdTestCaseOptions {
 
